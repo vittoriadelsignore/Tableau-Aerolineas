@@ -6,6 +6,9 @@ Plataforma: Tableau Public.
 
 #### Link de acceso: https://public.tableau.com/app/profile/vittoria7301/viz/CursoVisualizacionBigDataVittoriaDelSignore/Historia1
 
+
+#### Visualización: ![Dashboard](https://github.com/vittoriadelsignore/Tableau-Aerolineas/blob/master/VisualizacionTableau.gif)
+
 Se realizó en Tableau un Dashboard con storytelling contando la historia de los datos:
 
 La aerolínea con más retrasos fue WN con 19393 vuelos retrasados:
