@@ -22,3 +22,10 @@ La compañía aérea con mejor desempeño fue la 19690 al tener la menor cantida
 De los tipos de retraso que hay, el que más ocurre es "Late Aircraft Delay", con más de 2,1 millones de retrasos:
 
 ![Gráficos de retrasos](https://github.com/vittoriadelsignore/Tableau-Aerolineas/blob/master/Late%20Aircraft%20Delay.png)
+
+Luego se analizaron los aeropuertos con mayor cantidad de retrasos, primero en el origen y luego en el destino. En el origen fue Chicago IL, y se repite lo mismo para el destino:
+
+![Gráficos de aeropuertos con más retrasos en Origen](https://github.com/vittoriadelsignore/Tableau-Aerolineas/blob/master/Mayor%20Retraso%20origen%20IL.png)
+
+![Gráficos de aeropuertos con más retrasos en Destino](https://github.com/vittoriadelsignore/Tableau-Aerolineas/blob/master/Mayor%20Retraso%20destino%20IL.png)
+
