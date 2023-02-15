@@ -18,3 +18,7 @@ La aerolínea con más retrasos fue WN con 19393 vuelos retrasados:
 La compañía aérea con mejor desempeño fue la 19690 al tener la menor cantidad de retrasos del set de datos evaluados:
 
 ![Gráficos de compañías aéreas y sus retrasos](https://github.com/vittoriadelsignore/Tableau-Aerolineas/blob/master/Compania%20Aerea.png)
+
+De los tipos de retraso que hay, el que más ocurre es "Late Aircraft Delay", con más de 2,1 millones de retrasos:
+
+![Gráficos de retrasos](https://github.com/vittoriadelsignore/Tableau-Aerolineas/blob/master/Late%20Aircraft%20Delay.png)
